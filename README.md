@@ -16,7 +16,7 @@ It uses ARIMA and LSTM models to forecast TSLA prices and optimizes a TSLA/BND/S
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/gmf-time-series-portfolio-optimization.git
+git clone https://github.com/MiskirB/gmf-time-series-portfolio-optimization.git
 cd gmf-time-series-portfolio-optimization
 pip install -r requirements.txt
 ```
