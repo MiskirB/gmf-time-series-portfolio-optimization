@@ -1,0 +1,31 @@
+{
+  "assumptions": {
+    "expected_returns": {
+      "TSLA": -5.88762900571298e-05,
+      "BND": NaN,
+      "SPY": NaN
+    },
+    "risk_free_rate": -5.98762900571298e-05,
+    "covariance_matrix_units": "annualized"
+  },
+  "max_sharpe": {
+    "weights": {
+      "TSLA": NaN,
+      "BND": NaN,
+      "SPY": NaN
+    },
+    "expected_return": NaN,
+    "volatility": NaN,
+    "sharpe": NaN
+  },
+  "min_volatility": {
+    "weights": {
+      "TSLA": NaN,
+      "BND": NaN,
+      "SPY": NaN
+    },
+    "expected_return": NaN,
+    "volatility": NaN,
+    "sharpe": NaN
+  }
+}
